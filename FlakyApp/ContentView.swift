@@ -1,7 +1,7 @@
 import SwiftUI
 
 class ViewModel: ObservableObject {
-    @Published var isValid: Bool = true
+    @Published var isValid: Bool = true //
 
     init() {}
 }
